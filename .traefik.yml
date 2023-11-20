@@ -1,0 +1,7 @@
+displayName: Black Hole Plugin
+type: middleware
+# iconPath: .assets/icon.png
+
+import: github.com/lostsquirrel/black-hole
+
+summary: 'no response to request'
